@@ -69,8 +69,22 @@ body{
     top: 10%;
     left: 25%;
     border-radius: 0% 0% 100% 100%;
-    background: transparent 30%;
-    opacity: 70%;
+    /*background: transparent 30%;
+    opacity: 70%;*/
+  }
+  .face {
+    width: 60%;
+    height: 70%;
+    background-color: white;
+    border-radius: 70% 70% 60% 60%;
+    position: absolute;
+    top: 15%;
+  }
+  .face.left{
+    left: 5%;
+  }
+  .face.right{
+    right: 5%;
   }
   .ground {
     width: 100vw;
