@@ -1,5 +1,5 @@
 # Building-a-Penguin
-- day 27 of #100daysofcode
+- day 27 and 28 of #100daysofcode
 - using css transforms property to build a penguin
 - using the keyframes, animations
 - lets build this!
